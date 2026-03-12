@@ -1,0 +1,8 @@
+.vscode/
+
+__pycache__/
+
+notes/
+lab/
+
+.venv/
