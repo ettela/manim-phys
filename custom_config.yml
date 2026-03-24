@@ -1,5 +1,5 @@
 window:
-  position_string: UR
+  position_string: UL
   monitor_index: 0
   full_screen: False
 camera:
