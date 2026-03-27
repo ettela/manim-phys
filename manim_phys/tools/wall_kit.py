@@ -2,7 +2,7 @@ from manimlib import *
 
 
 class WallKit(Line):
-    def __init__(self, choice: list[str:int] = [str, None], **kwargs):
+    def __init__(self, choice: list[str, int] |None = None, **kwargs):
         self.choice = choice
         if choice[0] == "h":
             self.weight = choice[1]
