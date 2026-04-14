@@ -1,3 +1,4 @@
+# This file to config manimgl
 window:
   position_string: UL
   monitor_index: 0

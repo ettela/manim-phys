@@ -1,1 +1,1 @@
-# Manim Physical tools
+# Visual Physical via Manim(GL)

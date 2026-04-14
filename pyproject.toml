@@ -1,7 +1,7 @@
 [project]
 name = "manim-phys"
 version = "0.1.0"
-description = "Manim(GL) Physical tools"
+description = "Visual Physical via Manim(GL)"
 readme = "README.MD"
 requires-python = ">=3.13"
 dependencies = [
