@@ -4,9 +4,9 @@ __pycache__/
 *.egg-info/
 
 notes/
-vrc/
+tests/
 lab/
 
 .venv/
-uv.lock
-.python-version
+# uv.lock
+# .python-version
