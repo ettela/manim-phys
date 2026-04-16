@@ -2,4 +2,5 @@ from dataclasses import dataclass
 
 
 @dataclass
-class Mass: ...
+class Mass:
+    mass: float = 0.0
